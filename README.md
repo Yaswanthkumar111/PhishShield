@@ -4,7 +4,8 @@
 
 🚀 Detecting phishing emails using BERT-based models (DistilBERT & TinyBERT).
 
-<img width="800" alt="Screenshot 2025-02-13 at 11 49 13 AM" src="https://github.com/user-attachments/assets/9b325962-d4e0-4cd4-a0d3-6c0c873a94ea" />
+<img width="1470" height="763" alt="image 1" src="https://github.com/user-attachments/assets/8d7fc934-4daf-4d25-be05-226d0e5ab93b" />
+
 
 ## 📌 Overview
 
@@ -85,16 +86,12 @@ Access the API at: http://127.0.0.1:5000/
 
 https://github.com/user-attachments/assets/eedd28fe-7e60-40e2-a155-27827ba88538
 
-## 📜 License
-
-This project is licensed under the MIT License – see the [LICENSE](https://github.com/prasanth5629/PhishShield/blob/main/LICENSE) file for details.
-
 ## 📩 Contact & Acknowledgements
 
 If you have any questions, feel free to reach out:
 
-- **📧 Email**: prasanthkumarkarri5629@gmail.com
-- **💼 LinkedIn**: www.linkedin.com/in/prasanth-kumar-83611a1a0
-- **📌 GitHub**: https://github.com/prasanth5629
+- **📧 Email**: kotayaswanthkumar2004@gmail.com
+- **💼 LinkedIn**: www.linkedin.com/in/yaswanthkumarkota
+- **📌 GitHub**: https://github.com/Yaswanthkumar111
 
 If you found this project useful, don’t forget to ⭐ the repo! 😊
